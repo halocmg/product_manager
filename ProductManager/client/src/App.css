@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  align-items: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.header {
+  background-color: rgb(126, 85, 31);
+}
+
+.display{
+  background-color: orange;
+}
+
+img {
+  height: 150px;
+}
+
+.App-link {
+  color: #61dafb;
+}
